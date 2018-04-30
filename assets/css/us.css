@@ -29,4 +29,20 @@
  li{
      color: white;
  }
+ .button.btn-align{
+    background-color: red;
+    border-top: 2px;
+    color: white;
+    padding: 20px;
+ }
+
+ .productprices{
+     align-content: center;
+     text-align: center;
+ }
+
+ .single-image-carousel.image-wrapper{
+    width: 50%;
+    height: 50%;
+ }
 
